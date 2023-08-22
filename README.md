@@ -1,4 +1,6 @@
 # StableCode: Stability AI Developer Productivity/Developer
+[![StableCode Logo](https://raw.githubusercontent.com/Stability-AI/StableCode/main/stablecodelogo.png
+)]
 
 
 This repository contains Stability AI's ongoing development of the StableCode series of code models and will be continuously updated with new checkpoints. The following provides an overview of all currently available models. More coming soon.
