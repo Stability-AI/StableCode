@@ -53,7 +53,10 @@ This is then followed by continued pretraining with top 6 languages to be an exp
 - Go
 #### Evaluation
 
-The following zero-shot evaluations are performed with the awesome [BigCode Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness),
+The following zero-shot evaluations are performed with the awesome [BigCode Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness),   
+
+
+
 | Name                                                                                                               | HuggingFace Name                              | Type              |    | Context Length | Human-Eval |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- | ----------------- | -- | -------------- | ---------- |
 |                                                                                                                    |                                               |                   |    |                | pass@1     | pass@10 |
@@ -62,6 +65,9 @@ The following zero-shot evaluations are performed with the awesome [BigCode Eval
 | [Stablecode-Instruct-Alpha-3b](https://huggingface.co/stabilityai/stablecode-instruct-alpha-3b/)                   | stabilityai/stablecode-instruct-alpha-3b      | Instruction Tuned | 3B | 4096           | 26.89      | 36.18 |
 | [StableCode-Completion-Alpha-3B v1.1](https://huggingface.co/stabilityai/stablecode-completion-alpha-3b/tree/v1.1) | stabilityai/stablecode-instruct-alpha-3b      | Base              | 3B | 16384          | 22.06      | 33.37 |
 
+
+
+   
 ## Quickstart
 
 All StableCode models are hosted on [the Hugging Face hub](https://huggingface.co/StabilityAI). Check out this [notebook](https://github.com/Stability-AI/StableLM/blob/main/notebooks/stablelm-alpha.ipynb) to run inference with limited GPU capabilities.
