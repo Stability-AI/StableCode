@@ -102,14 +102,6 @@ print(tokenizer.decode(tokens[0], skip_special_tokens=True))
 ```
 
 
-## Request for Help
-
-Want to get involved?
-
-- We would love to port [llama.cpp](https://github.com/ggerganov/llama.cpp) to work with StableLMs
-- Integration into [Open Assistant](https://github.com/LAION-AI/Open-Assistant) from LAION-AI to collect high quality human-generated feedback data
-- ... Reach out to us with ideas on our [Discord](https://discord.com/invite/stablediffusion)
-
 ## Licenses
 
 - Base model checkpoints (`StableCode-Completion-Alpha-3B`) are licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
