@@ -1,5 +1,5 @@
 # StableCode: Stability AI Developer Productivity/Developer
-![Stochastic Parrot](stablecodelogo.png)
+![Stochastic Parrot](assets/stablecodelogo.png)
 <br/>*“ “a colorful parrot with glasses typing away at a computer, flat icon, vector” – SDXL 0.9
 ” — [Stable Diffusion XL](https://clipdrop.co/stable-diffusion)*
 
