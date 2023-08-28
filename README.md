@@ -51,7 +51,7 @@ The following zero-shot evaluations are performed with the awesome [BigCode Eval
 | [StableCode-Completion-Alpha-3B](https://huggingface.co/stabilityai/stablecode-completion-alpha-3b)                | stabilityai/stablecode-completion-alpha-3b    | Base              | 3B | 16384          | 20.18      | 33.75 |
 | [StableCode-Completion-Alpha-3b-4k](https://huggingface.co/stabilityai/stablecode-completion-alpha-3b-4k/)         | stabilityai/stablecode-completion-alpha-3b-4k | Base              | 3B | 4096           | 17.68      | 27.01 |
 | [Stablecode-Instruct-Alpha-3b](https://huggingface.co/stabilityai/stablecode-instruct-alpha-3b/)                   | stabilityai/stablecode-instruct-alpha-3b      | Instruction Tuned | 3B | 4096           | 26.89      | 36.18 |
-| [StableCode-Completion-Alpha-3B v1.1](https://huggingface.co/stabilityai/stablecode-completion-alpha-3b/tree/v1.1) | stabilityai/stablecode-instruct-alpha-3b      | Base              | 3B | 16384          | 22.06      | 33.37 |
+| [StableCode-Completion-Alpha-3B v1.1](https://huggingface.co/stabilityai/stablecode-completion-alpha-3b/tree/v1.1) | stablecode-completion-alpha-3b@v1.1      | Base              | 3B | 16384          | 22.06      | 33.37 |
 
 
 
