@@ -36,26 +36,9 @@ Following similar work, we use a multi-stage approach to context length extensio
 
 #### Training Data
 The training is done in two stages, initial pretraining with the top 12 languages, which we got inspired by Stackoverflow developer survey,
-- java
-- javascript
-- python
-- typescript,
-- php
-- sql
-- rust
-- c
-- markdown,
-- go
-- c++
-- Shell
+The initial subsets - `java, javascript, python, typescript, php, sql, rust, c, markdown, go, c++, shell.`
   
-This is then followed by continued pretraining with top 6 languages to be an expert in those languages,
-- Java
-- Javascript
-- Python
-- C
-- C++
-- Go
+This is then followed by continued pretraining with top 6 languages to be an expert in those languages - `Java, Javascript, Python, C, C++, Go`
 #### Evaluation
 
 The following zero-shot evaluations are performed with the awesome [BigCode Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness),   
