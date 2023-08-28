@@ -19,7 +19,7 @@ Released the initial suite of StableCode-Alphas. Catch the release blog post [he
 - StableCode-Instruct-Alpha-3b
 
 *August 9, 2023*
-- Released an improved version of StableCode-Completion-Alpha-3B -> [StableCode-Completion-Alpha-3B-v1.1](stabilityai/stablecode-completion-alpha-3b). This model is trained on more tokens of the top 5 languages.
+- Released an improved version of StableCode-Completion-Alpha-3B -> [StableCode-Completion-Alpha-3B-v1.1]([stabilityai/stablecode-completion-alpha-3b](https://huggingface.co/stabilityai/stablecode-completion-alpha-3b/tree/v1.1)). This model is trained on more tokens of the top 5 languages.
 
 ## Models
 
