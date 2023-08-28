@@ -60,7 +60,7 @@ The following zero-shot evaluations are performed with the awesome [BigCode Eval
 
 All StableCode models are hosted on [the Hugging Face hub](https://huggingface.co/StabilityAI). Check out this [notebook](https://github.com/Stability-AI/StableLM/blob/main/notebooks/stablelm-alpha.ipynb) to run inference with limited GPU capabilities.
 
-Get started chatting with `StableCode-Completion-Alpha` by using the following code snippet:
+Get started generating code with `StableCode-Completion-Alpha` by using the following code snippet:
 
 ```python
 import torch
