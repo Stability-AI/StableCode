@@ -10,6 +10,11 @@ This repository contains Stability AI's ongoing development of the StableCode se
 
 ## News
 
+*January 16, 2024*
+- Released the next version of Stable Code for developers. Catch the release blog post [here](https://stability.ai/news/stable-code-2024-llm-code-completion-release).
+
+*August 9, 2023*
+- Released an improved version of StableCode-Completion-Alpha-3B -> [StableCode-Completion-Alpha-3B-v1.1](https://huggingface.co/stabilityai/stablecode-completion-alpha-3b/tree/v1.1). This model is trained on more tokens of the top 5 languages.
 
 *August 8, 2023*
 
@@ -17,9 +22,6 @@ Released the initial suite of StableCode-Alphas. Catch the release blog post [he
 - StableCode-Completion-Alpha-3B
 - StableCode-Completion-Alpha-3B-4k
 - StableCode-Instruct-Alpha-3b
-
-*August 9, 2023*
-- Released an improved version of StableCode-Completion-Alpha-3B -> [StableCode-Completion-Alpha-3B-v1.1](https://huggingface.co/stabilityai/stablecode-completion-alpha-3b/tree/v1.1). This model is trained on more tokens of the top 5 languages.
 
 ## Models
 
