@@ -23,6 +23,12 @@ Released the initial suite of StableCode-Alphas. Catch the release blog post [he
 - StableCode-Completion-Alpha-3B-4k
 - StableCode-Instruct-Alpha-3b
 
+*January 16, 2023*
+
+Released StableCode-3B. Catch the release blog post [here](https://stability.ai/news/stable-code-2024-llm-code-completion-release?utm_source=x&utm_medium=website&utm_campaign=blog). Which includes,
+- StableCode-3B a super strong coding model competitive with code-llama-7b in 3B size.
+
+
 ## Models
 
 ### StableCode-Completion-Alpha suite of Models
@@ -54,6 +60,7 @@ The following zero-shot evaluations are performed with the awesome [BigCode Eval
 | [StableCode-Completion-Alpha-3b-4k](https://huggingface.co/stabilityai/stablecode-completion-alpha-3b-4k/)         | stabilityai/stablecode-completion-alpha-3b-4k | Base              | 3B | 4096           | 17.68      | 27.01 |
 | [Stablecode-Instruct-Alpha-3b](https://huggingface.co/stabilityai/stablecode-instruct-alpha-3b/)                   | stabilityai/stablecode-instruct-alpha-3b      | Instruction Tuned | 3B | 4096           | 26.89      | 36.18 |
 | [StableCode-Completion-Alpha-3B v1.1](https://huggingface.co/stabilityai/stablecode-completion-alpha-3b/tree/v1.1) | stablecode-completion-alpha-3b@v1.1      | Base              | 3B | 16384          | 22.06      | 33.37 |
+| [StableCode-3B](https://huggingface.co/stabilityai/stablecode-completion-alpha-3b/tree/v1.1) | stable-code-3b      | Base              | 3B | 16384          | 32.400      |
 
 
 
